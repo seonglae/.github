@@ -1,0 +1,15 @@
+titleOnly: true
+types:
+  - feat
+  - fix
+  - docs
+  - style
+  - refactor
+  - test
+  - lint
+  - merge
+  - typing
+  - perf
+  - meta
+  - deps
+  - pr
